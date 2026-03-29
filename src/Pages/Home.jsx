@@ -1,8 +1,18 @@
 import React from 'react'
+import Slider from '../Components/Slider'
+import Marquee from 'react-fast-marquee'
+import MyComponent from '../Components/MyComponent'
+
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+
+        <Slider/>
+   <MyComponent/>
+        
+        
+    </div>
   )
 }
 

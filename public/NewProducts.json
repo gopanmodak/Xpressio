@@ -1,0 +1,302 @@
+[
+  {
+    "productId": 1,
+    "name": "Premium Wireless Noise Cancelling Headphones",
+    "image": "https://example.com/images/headphones.jpg",
+    "category": "Electronics",
+    "description": "For the modern audiophile and remote worker, the Premium Wireless Noise Cancelling Headphones deliver an unparalleled listening experience. Engineered with advanced hybrid active noise cancellation (ANC), these headphones block out up to 95% of ambient noise, from rumbling engines to office chatter. The 40mm dynamic drivers produce rich, balanced sound with deep bass, clear mids, and sparkling highs. With Bluetooth 5.2 connectivity, you get seamless pairing and a stable connection up to 30 feet. The battery life is impressive: up to 40 hours of playback with ANC on, and 60 hours without. A quick 10-minute charge gives you 4 hours of listening. The memory foam ear cushions wrapped in soft protein leather ensure comfort for all-day wear. The headband is adjustable and padded. Built-in microphone array enables crystal-clear hands-free calls. Compatible with Siri and Google Assistant. The foldable design comes with a hard carrying case. Whether you're commuting, studying, or relaxing at home, these headphones provide immersive sound and quiet. Available in black, silver, and rose gold. Backed by a 2-year warranty and 30-day return policy. Upgrade your audio experience today.",
+    "rating": 4.5,
+    "price": 99.99,
+    "slug": "premium-wireless-noise-cancelling-headphones"
+  },
+  {
+    "productId": 2,
+    "name": "Ultra-Slim Smartphone 5G",
+    "image": "https://example.com/images/smartphone.jpg",
+    "category": "Electronics",
+    "description": "Experience the future of mobile technology with the Ultra-Slim Smartphone 5G, a masterpiece of design and performance. Featuring a 6.7-inch Super AMOLED display with 120Hz refresh rate and HDR10+ support, every image and video pops with vibrant colors and deep blacks. The triple camera system includes a 108MP main sensor, 12MP ultra-wide, and 8MP telephoto lens with 5x optical zoom, allowing you to capture professional-grade photos in any lighting. The 32MP front-facing camera makes selfies and video calls stunning. Powered by the latest octa-core processor with 8GB RAM and 256GB storage, this phone handles multitasking, gaming, and streaming effortlessly. 5G connectivity ensures blazing-fast downloads and low latency. The 5000mAh battery supports 65W fast charging, reaching 100% in just 30 minutes, plus 15W wireless charging. The sleek glass and aluminum body is IP68 water and dust resistant. Running on Android 13 with guaranteed updates for three years, you get a clean and customizable interface. On-screen fingerprint sensor and face unlock keep your data secure. Whether you're a power user, photographer, or casual browser, this smartphone delivers flagship quality at a competitive price. Comes with a transparent case and pre-applied screen protector.",
+    "rating": 4.8,
+    "price": 699.99,
+    "slug": "ultra-slim-smartphone-5g"
+  },
+  {
+    "productId": 3,
+    "name": "Performance Gaming Laptop",
+    "image": "https://example.com/images/laptop.jpg",
+    "category": "Computers",
+    "description": "Dominate the competition with the Performance Gaming Laptop, engineered for serious gamers and content creators. At its heart is an Intel Core i9-13900H processor with 14 cores and 20 threads, capable of boosting up to 5.4GHz. Paired with an NVIDIA GeForce RTX 4070 GPU with 8GB GDDR6 VRAM, you can play the latest titles at high settings with ray tracing and DLSS 3. The 16-inch QHD+ display runs at 240Hz with G-Sync support, delivering tear-free, ultra-smooth visuals. 32GB of DDR5 RAM ensures seamless multitasking, while a 1TB NVMe SSD provides lightning-fast load times and ample storage. The advanced cooling system with liquid metal and four fans keeps temperatures low even during marathon sessions. The RGB backlit keyboard with per-key customization and 1.7mm travel offers tactile feedback. Ports include Thunderbolt 4, HDMI 2.1, USB 3.2, and Ethernet. Wi-Fi 6E and Bluetooth 5.3 ensure low-latency online gaming. The 90Wh battery supports up to 6 hours of mixed use, but for gaming, keep it plugged for max performance. Audio is powered by dual front-firing speakers with Dolby Atmos. The laptop comes with Windows 11 Pro and a free one-month Xbox Game Pass. Whether you're streaming, editing video, or competing in esports, this laptop is your ultimate weapon.",
+    "rating": 4.7,
+    "price": 1499.99,
+    "slug": "performance-gaming-laptop"
+  },
+  {
+    "productId": 4,
+    "name": "Classic Cotton Crewneck T-Shirt",
+    "image": "https://example.com/images/tshirt.jpg",
+    "category": "Clothing",
+    "description": "Elevate your everyday wardrobe with the Classic Cotton Crewneck T-Shirt, a staple piece that combines comfort, durability, and timeless style. Made from 100% combed ring-spun cotton, this shirt feels incredibly soft against the skin and resists pilling even after many washes. The fabric weight is 180 GSM, providing just the right balance of breathability and opacity—no see-through issues. The classic crewneck design features ribbed neckband that retains its shape, and double-needle stitching on the sleeves and hem ensures long-lasting wear. Available in 12 versatile colors including black, white, navy, heather gray, olive, and burgundy. The fit is regular but tailored, not too tight or too loose, suitable for all body types. Sizes range from XS to 3XL. This t-shirt is pre-shrunk, so you don't have to worry about shrinkage after drying. Perfect for layering under jackets or wearing alone with jeans, chinos, or shorts. Easy care: machine wash cold, tumble dry low. Ethically produced in a WRAP-certified factory, using low-impact dyes. Whether you need basics for work, gym, or casual outings, this t-shirt delivers exceptional value. Pair it with our jeans for a complete look. Satisfaction guaranteed with free returns within 30 days.",
+    "rating": 4.3,
+    "price": 19.99,
+    "slug": "classic-cotton-crewneck-t-shirt"
+  },
+  {
+    "productId": 5,
+    "name": "Slim Fit Stretch Jeans",
+    "image": "https://example.com/images/jeans.jpg",
+    "category": "Clothing",
+    "description": "Upgrade your denim game with the Slim Fit Stretch Jeans, designed for modern men who want both style and mobility. Crafted from a premium cotton blend (98% cotton, 2% elastane), these jeans offer a comfortable stretch that moves with you, whether you're sitting at a desk or out for a night. The fabric weight is 12 oz, durable yet breathable. The slim fit sits below the waist with a tailored leg that's not too tight, tapering from thigh to ankle. The five-pocket design includes riveted pockets for strength and a classic coin pocket. The zipper fly with button closure is sturdy. Available in multiple washes: dark indigo, light blue, black, and gray. The dark indigo features subtle fading for a worn-in look without being distressed. These jeans are pre-washed to minimize shrinkage and soften the feel. They pair perfectly with our t-shirts, button-downs, or hoodies. The hem can be easily altered. Machine wash inside out to preserve color. Whether you're going casual or semi-formal, these jeans offer versatility. Sizes from 28 to 40 waist, lengths 30, 32, 34. With over 5000 positive reviews, these jeans are a customer favorite. Get the perfect blend of comfort, durability, and modern style.",
+    "rating": 4.6,
+    "price": 49.99,
+    "slug": "slim-fit-stretch-jeans"
+  },
+  {
+    "productId": 6,
+    "name": "Lightweight Running Sneakers",
+    "image": "https://example.com/images/sneakers.jpg",
+    "category": "Footwear",
+    "description": "Achieve your personal best with the Lightweight Running Sneakers, engineered for neutral runners who demand responsiveness and cushioning. The upper is made from engineered mesh with seamless construction, offering breathability and a sock-like fit that reduces irritation. The midsole utilizes EVA foam with increased rebound, providing energy return with every stride. A removable Ortholite insole adds extra comfort and antimicrobial properties. The outsole features durable carbon rubber in high-wear areas and flex grooves for natural foot movement. Heel-to-toe drop is 8mm, ideal for most runners. Weight is only 8.5 ounces (size 9), reducing fatigue on long runs. Reflective accents improve visibility in low light. The padded collar and tongue prevent chafing. Available in men's and women's sizes with multiple colorways: black/neon, blue/silver, white/pink, and gray/red. Whether you're training for a 5K or a marathon, these sneakers provide the support and durability needed. They also work great for gym workouts, casual walks, or standing all day. The rubber outsole has been tested for 500 miles of use. Many customers report reduced shin splints and knee pain. Backed by a 1-year warranty against defects. Lace up and feel the difference.",
+    "rating": 4.4,
+    "price": 79.99,
+    "slug": "lightweight-running-sneakers"
+  },
+  {
+    "productId": 7,
+    "name": "Smart Fitness Watch",
+    "image": "https://example.com/images/fitnesswatch.jpg",
+    "category": "Electronics",
+    "description": "Take control of your health with the Smart Fitness Watch, a comprehensive wearable that tracks everything from steps to sleep quality. The 1.4-inch AMOLED display is bright and sharp, with always-on option and customizable watch faces. It features continuous heart rate monitoring, SpO2 tracking, stress measurement, and a menstrual cycle tracker for women. With built-in GPS, you can map your runs without carrying your phone. Over 25 sport modes including running, cycling, swimming (5 ATM water resistant), yoga, and HIIT. The watch automatically detects your activity and records duration and calories. Sleep tracking provides deep, light, and REM stages with a sleep score. Battery life is up to 14 days with typical use, 7 days with always-on display. Notifications for calls, texts, and apps keep you connected. The watch also includes music control, camera remote, weather updates, and breath exercises. Compatible with both iOS and Android via the free app. The silicone strap is soft and hypoallergenic, available in black, blue, pink, and white. The stainless steel bezel gives it a premium look. Whether you're a fitness enthusiast or just starting your wellness journey, this watch offers actionable insights to help you reach your goals. Includes a magnetic charging cable and 1-year warranty.",
+    "rating": 4.6,
+    "price": 89.99,
+    "slug": "smart-fitness-watch"
+  },
+  {
+    "productId": 8,
+    "name": "Insulated Stainless Steel Water Bottle",
+    "image": "https://example.com/images/waterbottle.jpg",
+    "category": "Home & Kitchen",
+    "description": "Stay hydrated in style with the Insulated Stainless Steel Water Bottle, designed to keep your drinks cold for 24 hours or hot for 12 hours. Made from 18/8 food-grade stainless steel, this bottle is rust-resistant, BPA-free, and non-toxic. The double-wall vacuum insulation technology ensures no condensation on the outside, so your hands stay dry. The wide mouth allows for easy filling, adding ice cubes, and cleaning. The included leak-proof lid with a flip-top spout offers one-handed drinking, and the straw lid option is also available (sold separately). The bottle comes in 3 sizes: 18oz, 24oz, and 32oz. The powder-coated finish provides a secure grip and scratch resistance. Available in 15 vibrant colors including matte black, rose gold, mint green, and lavender. The bottle fits most car cup holders (18oz and 24oz). It's dishwasher safe, but hand washing is recommended to preserve the finish. Perfect for gym, office, travel, hiking, or daily use. The bottle also includes a carry loop on the lid. Customers love that it doesn't retain or transfer flavors. Backed by a lifetime warranty against manufacturing defects. Reduce single-use plastic and enjoy your favorite beverage at the perfect temperature all day long. An eco-friendly choice that saves money.",
+    "rating": 4.8,
+    "price": 24.99,
+    "slug": "insulated-stainless-steel-water-bottle"
+  },
+  {
+    "productId": 9,
+    "name": "Professional Ceramic Knife Set",
+    "image": "https://example.com/images/knifeset.jpg",
+    "category": "Home & Kitchen",
+    "description": "Upgrade your kitchen with the Professional Ceramic Knife Set, featuring ultra-sharp, lightweight blades that stay sharp 10 times longer than steel. The set includes a 6-inch chef's knife, 5-inch santoku, 4-inch paring knife, and a peeler, all with ergonomic non-slip handles. Ceramic blades are made from high-purity zirconium oxide, offering a hardness of 9 on the Mohs scale (diamond is 10). They never rust, discolor, or transfer metallic tastes to food. Perfect for slicing fruits, vegetables, boneless meats, and cheese. The blades are easy to clean and are dishwasher safe, though hand washing is recommended to preserve the edge. Note: Not for cutting frozen food, bones, or hard cheeses. The set comes with a stylish bamboo knife block for safe storage. Each knife is balanced and lightweight, reducing hand fatigue during extended prep work. Ceramic knives are also non-porous, meaning they won't harbor bacteria. The gift box makes this set an excellent wedding or housewarming present. With proper use, you won't need sharpening for years. If you do, a professional ceramic sharpener is available separately. Over 10,000 happy customers give this set 5 stars for performance and value. Say goodbye to dull steel knives and hello to precision cutting.",
+    "rating": 4.2,
+    "price": 39.99,
+    "slug": "professional-ceramic-knife-set"
+  },
+  {
+    "productId": 10,
+    "name": "Wireless Mechanical Keyboard",
+    "image": "https://example.com/images/keyboard.jpg",
+    "category": "Electronics",
+    "description": "Boost your productivity and gaming with the Wireless Mechanical Keyboard, featuring hot-swappable switches, RGB backlighting, and triple-mode connectivity. The keyboard uses tactile brown switches (or choose linear reds or clicky blues) that provide satisfying feedback without excessive noise. The keycaps are double-shot PBT, which resists shine and fading over time. With Bluetooth 5.0, you can connect up to 3 devices and switch between them instantly, plus a 2.4GHz wireless dongle and USB-C wired mode. The 4000mAh battery lasts up to 200 hours with RGB off, 50 hours with full lighting. The compact 75% layout saves desk space while keeping arrow keys and function row. Programmable via open-source software: remap keys, create macros, and customize per-key RGB effects. The keyboard has a CNC aluminum frame and a magnetic top cover for easy cleaning. N-key rollover and anti-ghosting ensure every press registers. Compatible with Windows, Mac, iOS, and Android. Includes a keycap puller, switch puller, and extra switches. Whether you're coding, writing, or gaming, this keyboard offers a premium typing experience. The gasket-mounted plate reduces vibration and provides a softer feel. Backed by a 2-year warranty. Elevate your setup with this beautiful and functional keyboard.",
+    "rating": 4.7,
+    "price": 89.99,
+    "slug": "wireless-mechanical-keyboard"
+  },
+  {
+    "productId": 11,
+    "name": "Organic Cotton Bath Towel Set",
+    "image": "https://example.com/images/towels.jpg",
+    "category": "Home & Kitchen",
+    "description": "Indulge in luxury with the Organic Cotton Bath Towel Set, made from 100% GOTS-certified organic cotton, free from pesticides and synthetic chemicals. This set includes two bath towels (27x54 inches), two hand towels (16x28 inches), and two washcloths (13x13 inches). The towels have a 700 GSM weight, making them plush, highly absorbent, and quick-drying. Zero-twist technology means less lint and faster drying after use. The double-stitched hem ensures durability through many washes. Available in neutral earth tones: white, gray, beige, sage green, and navy. The towels are hypoallergenic and safe for sensitive skin, as no dyes or bleaches are used in the undyed versions. They are Oeko-Tex certified, meaning no harmful substances. The fabric feels soft like a spa towel yet maintains its fluffiness after repeated laundering. Machine wash warm with like colors, tumble dry low. These towels are also eco-friendly, as organic cotton uses 91% less water than conventional cotton. Each set comes in a reusable cotton bag. Perfect for your master bathroom, guest bath, or as a thoughtful gift. Experience the difference of natural fibers against your skin. We offer a 100% satisfaction guarantee: if you don't love them, return within 60 days for a full refund.",
+    "rating": 4.9,
+    "price": 59.99,
+    "slug": "organic-cotton-bath-towel-set"
+  },
+  {
+    "productId": 12,
+    "name": "Portable Bluetooth Speaker",
+    "image": "https://example.com/images/speaker.jpg",
+    "category": "Electronics",
+    "description": "Bring the party anywhere with the Portable Bluetooth Speaker, a rugged, waterproof speaker that delivers 20W of room-filling sound. The speaker features dual passive radiators and a full-range driver, producing deep bass and clear highs with minimal distortion even at max volume. Bluetooth 5.3 provides instant pairing and a range of 100 feet. It also has an aux input and microSD card slot for offline playback. The built-in 5000mAh battery gives up to 15 hours of playtime on a single charge. The speaker is IP67 rated: dust-tight and waterproof up to 1 meter for 30 minutes, so it's perfect for beach, pool, or shower. You can even pair two speakers for true stereo sound via TWS mode. The built-in microphone allows for hands-free calls. The compact size (6.5 x 2.5 x 2.5 inches) fits in a cup holder or backpack. A carabiner clip is included for attaching to bags. Available in black, blue, red, and camouflage. The durable rubber housing resists drops from 4 feet. Control music, volume, and calls with tactile buttons. The speaker also announces battery level when turned on. Whether you're camping, biking, or just relaxing at home, this speaker provides reliable, great-sounding audio. Comes with a USB-C charging cable and a lanyard. 1-year warranty against defects.",
+    "rating": 4.5,
+    "price": 49.99,
+    "slug": "portable-bluetooth-speaker"
+  },
+  {
+    "productId": 13,
+    "name": "Leather Laptop Backpack",
+    "image": "https://example.com/images/backpack.jpg",
+    "category": "Accessories",
+    "description": "Travel in style and organization with the Leather Laptop Backpack, handcrafted from full-grain genuine leather that ages beautifully over time. The main compartment fits laptops up to 17 inches, with a padded sleeve that secures your device. Multiple pockets include a front zipper pocket for quick access items, two side pockets for water bottles or umbrella, and a hidden rear pocket for valuables like your passport or wallet. The interior has organizer slots for pens, cards, and a key leash. The backpack uses durable YKK zippers and metal buckles. The back panel and shoulder straps are padded with breathable mesh for all-day comfort. The top handle allows for briefcase-style carry. Dimensions: 18 x 12 x 6 inches. The leather is treated with a protective coating to resist scratches and light rain. However, avoid heavy downpours. Over time, the leather develops a unique patina. The backpack is lightweight for its size (only 2.5 lbs). Perfect for business commuters, students, or weekend trips. The vintage brown color matches any outfit. Each backpack is hand-stitched and comes with a dust bag. We offer a 5-year warranty against craftsmanship defects. With proper care (condition every 6 months), this backpack will last a decade or more. Upgrade from nylon to leather elegance.",
+    "rating": 4.8,
+    "price": 129.99,
+    "slug": "leather-laptop-backpack"
+  },
+  {
+    "productId": 14,
+    "name": "Non-Stick Ceramic Frying Pan",
+    "image": "https://example.com/images/fryingpan.jpg",
+    "category": "Home & Kitchen",
+    "description": "Cook healthier meals with the Non-Stick Ceramic Frying Pan, free from PTFE, PFOA, and toxic chemicals. The pan features a thermo-spot indicator that turns solid red when the pan is perfectly preheated. The ceramic coating is derived from sand, providing a natural non-stick surface that requires less oil or butter. The pan is made from forged aluminum for even heat distribution and warp resistance. The stay-cool handle is ergonomic and riveted for strength. Oven safe up to 450°F, and compatible with all cooktops except induction. The 10-inch size is ideal for eggs, pancakes, fish, and sautéing vegetables. The coating is scratch-resistant but we recommend using silicone, wood, or nylon utensils to extend its life. Dishwasher safe, though hand washing is recommended. The pan has a subtle sloped edge for easy flipping. Customers love that food slides right off and cleanup is a breeze. Unlike traditional non-stick pans, this ceramic version does not release toxic fumes if overheated. It's also recyclable at end of life. Comes with a glass lid that has a steam vent. Backed by a 2-year warranty. If you're looking for a safer, eco-friendly alternative to Teflon, this pan delivers excellent performance. Make cooking enjoyable and healthy.",
+    "rating": 4.4,
+    "price": 34.99,
+    "slug": "non-stick-ceramic-frying-pan"
+  },
+  {
+    "productId": 15,
+    "name": "Adjustable Dumbbell Set",
+    "image": "https://example.com/images/dumbbells.jpg",
+    "category": "Sports & Outdoors",
+    "description": "Transform your home gym with the Adjustable Dumbbell Set, replacing 15 sets of weights with just one compact pair. Each dumbbell adjusts from 5 to 52.5 pounds in 2.5-pound increments (up to 25 lbs, then 5-pound increments). The patented dial system allows you to select your weight and lift the handle – the unused plates stay locked in the cradle. The knurled handle provides a secure grip, and the wide contoured plates prevent rolling. The durable nylon composite and steel construction can withstand drops from waist height. The included cradle keeps the dumbbells organized and easy to access. The set also includes a 2-year warranty and access to a free workout app. Compared to buying individual dumbbells, this set saves space and money. Perfect for strength training, HIIT, or full-body workouts. The weight range is suitable for beginners to intermediate lifters. Each dumbbell has a maximum weight of 52.5 lbs, so total set is 105 lbs. The compact footprint is only 16 x 9 x 8 inches per dumbbell. Users praise the quick change mechanism. Note: always return to cradle before adjusting. Works with most bench press setups. A game-changer for home fitness enthusiasts. Build muscle without cluttering your living space.",
+    "rating": 4.7,
+    "price": 299.99,
+    "slug": "adjustable-dumbbell-set"
+  },
+  {
+    "productId": 16,
+    "name": "Wireless Earbuds with Charging Case",
+    "image": "https://example.com/images/earbuds.jpg",
+    "category": "Electronics",
+    "description": "Experience true wireless freedom with these Wireless Earbuds featuring hybrid ANC, touch controls, and a compact charging case. Each earbud houses a 10mm dynamic driver tuned for balanced sound with punchy bass. Active noise cancellation reduces ambient noise by up to 35dB, while transparency mode lets you hear surroundings when needed. The earbuds support Bluetooth 5.2 with AAC and SBC codecs, providing stable connection and low latency (game mode reduces lag to 60ms). With 6 hours of playtime per charge (ANC on) or 8 hours (ANC off), the case provides an additional 4 full charges via USB-C or wireless charging. The case has a digital battery display. Each earbud has three microphones for clear calls and voice assistant support. The ergonomic design includes three sizes of silicone tips for a secure fit. IPX5 water resistance means sweat and light rain won't harm them. Touch controls let you adjust volume, skip tracks, answer calls, and activate ANC. The companion app allows EQ customization and firmware updates. Available in white, black, and lavender. The earbuds auto-pair when removed from the case. Whether you commute, work out, or relax, these earbuds offer premium features at a fraction of the price of big brands. Includes USB-C cable and 18-month warranty.",
+    "rating": 4.5,
+    "price": 59.99,
+    "slug": "wireless-earbuds-charging-case"
+  },
+  {
+    "productId": 17,
+    "name": "Wooden Coffee Table",
+    "image": "https://example.com/images/coffeetable.jpg",
+    "category": "Furniture",
+    "description": "Add rustic charm to your living room with the Wooden Coffee Table, crafted from solid reclaimed pine wood with a natural finish. The table measures 42 x 22 x 18 inches, perfect for small to medium spaces. The top features a live-edge design, showcasing the wood's unique grain patterns and knots. Two spacious drawers provide hidden storage for remotes, coasters, and magazines. The lower shelf is ideal for displaying books or baskets. The table is supported by angled steel legs in matte black, creating an industrial farmhouse look. Each piece is hand-finished with a water-resistant, non-toxic sealant. Assembly is required but easy with included tools and instructions (estimated 20 minutes). The wood is sourced from sustainable forests, and the table weighs 45 lbs, sturdy enough for daily use. The drawers use metal slides for smooth operation. Maximum weight capacity: 150 lbs on top, 50 lbs on shelf. The coffee table arrives in eco-friendly packaging. Customer reviews praise its sturdiness and unique appearance. It matches well with leather sofas or neutral rugs. Clean with a dry cloth; avoid harsh chemicals. A beautiful centerpiece for your living area. We offer free returns within 30 days and a 1-year warranty against defects. Elevate your home decor with this timeless piece.",
+    "rating": 4.3,
+    "price": 189.99,
+    "slug": "wooden-coffee-table"
+  },
+  {
+    "productId": 18,
+    "name": "UV Sanitizing Phone Cleaner",
+    "image": "https://example.com/images/sanitizer.jpg",
+    "category": "Electronics",
+    "description": "Keep your phone germ-free with the UV Sanitizing Phone Cleaner, a compact device that uses UVC light to eliminate 99.9% of bacteria and viruses in just 5 minutes. The interior is lined with reflective surfaces to ensure 360-degree disinfection of your phone, keys, earbuds, or other small items. The device fits all smartphones up to 6.9 inches, including cases. One-touch operation with automatic shut-off. The UV-C lamp has a lifespan of 10,000 hours and produces no ozone, so it's safe for indoor use. The outer casing is BPA-free plastic. The cleaner also includes a built-in wireless charger (10W) and a USB-A port for charging another device while sanitizing. Powered by USB-C cable (included) or use the internal 2000mAh battery for cordless operation. The lid has a magnetic closure and safety sensor that stops UV emission if opened. This device is not a medical device but provides peace of mind, especially during flu season. Compact size (7.5 x 4.5 x 1.5 inches) fits on a desk or nightstand. Many healthcare workers and parents trust this device. It also reduces phone smudges? No, but UV light doesn't clean dirt; we recommend wiping the phone first. The cleaner is lab-tested to kill E. coli, Staphylococcus, and more. Comes with a travel pouch. A smart investment for hygiene-conscious individuals.",
+    "rating": 4.1,
+    "price": 39.99,
+    "slug": "uv-sanitizing-phone-cleaner"
+  },
+  {
+    "productId": 19,
+    "name": "Cotton Linen Blend Button-Up Shirt",
+    "image": "https://example.com/images/shirt.jpg",
+    "category": "Clothing",
+    "description": "Stay cool and stylish in the Cotton Linen Blend Button-Up Shirt, perfect for summer days or casual Fridays. Made from 55% linen and 45% cotton, this shirt combines linen's breathability and moisture-wicking properties with cotton's softness and wrinkle resistance. The fabric weight is lightweight 140 GSM, offering a relaxed drape. The shirt features a classic button-down collar, chest patch pocket, and adjustable cuffs. The curved hem looks great tucked or untucked. Available in 8 colors: white, light blue, chambray, olive, charcoal, pink, lavender, and cream. Sizes S to XXL, with a regular fit that's not boxy. The shirt is pre-washed to minimize shrinkage. The buttons are natural corozo nut. You can machine wash cold and tumble dry low; iron on medium if needed. This shirt is ideal for office (where casual dress code applies), dates, beach cover-ups, or travel because it resists creasing. Customers love that it feels airy on hot days. Pair with chinos, shorts, or jeans. For a more formal look, add a blazer. The linen content also has natural antibacterial properties. We've sold over 20,000 units with a 4.6-star average. Upgrade your warm-weather wardrobe with this versatile essential. Satisfaction guaranteed or your money back.",
+    "rating": 4.6,
+    "price": 44.99,
+    "slug": "cotton-linen-blend-button-up-shirt"
+  },
+  {
+    "productId": 20,
+    "name": "Stainless Steel Cookware Set",
+    "image": "https://example.com/images/cookware.jpg",
+    "category": "Home & Kitchen",
+    "description": "Cook like a chef with the Stainless Steel Cookware Set, a 10-piece collection that includes 8-inch and 10-inch frying pans, 1.5qt and 3qt saucepans with lids, 5qt Dutch oven with lid, and a 6qt stockpot with lid. All pieces are made from 18/10 stainless steel with an aluminum encapsulated base for even heat distribution and no hot spots. The mirror-polished exterior looks elegant, while the interior has a satin finish that resists sticking and discoloration. The riveted stainless steel handles stay cool on the stovetop and are oven safe up to 500°F. The tempered glass lids allow you to monitor cooking without lifting. The set is compatible with all cooktops including induction. It's dishwasher safe, but hand washing preserves the shine. The pans are metal utensil safe, so you can use spatulas without worry. This set is built to last a lifetime and is backed by a lifetime warranty. Unlike non-stick pans, stainless steel develops a patina that enhances flavor over time (when properly seasoned). Perfect for searing, browning, deglazing, and making sauces. Many professional kitchens use stainless steel for its durability. The set includes a recipe booklet to get you started. Whether you're a novice or expert, this cookware set will become your go-to. Gift-boxed for special occasions.",
+    "rating": 4.8,
+    "price": 199.99,
+    "slug": "stainless-steel-cookware-set"
+  },
+  {
+    "productId": 21,
+    "name": "Memory Foam Pillow",
+    "image": "https://example.com/images/pillow.jpg",
+    "category": "Home & Kitchen",
+    "description": "Wake up refreshed with the Memory Foam Pillow, ergonomically designed to support your neck and spine alignment. The pillow is made from CertiPUR-US certified viscoelastic memory foam that responds to your body heat and weight, conforming to your unique shape. It features a medium-firm feel, ideal for back and side sleepers. The pillow has a cooling gel-infused layer that draws heat away from your head, preventing night sweats. The breathable bamboo-derived cover is removable and washable, hypoallergenic, and dust mite resistant. The pillow comes in two height options: standard (5 inches) for stomach/back sleepers, and tall (6 inches) for side sleepers. Dimensions: 24 x 16 inches. The foam has an open-cell structure that increases airflow. Unlike cheap memory foam, this pillow does not off-gas strong odors; any mild scent dissipates within 48 hours. The pillow includes a 30-night trial period: if you don't love it, return for a full refund. The manufacturer offers a 3-year warranty. Customers report reduced snoring, less morning stiffness, and better sleep quality. The pillow is also great for reading in bed. To clean, remove cover and machine wash cold; the foam core should be spot cleaned and air dried. Upgrade your sleep hygiene with this affordable luxury. Perfect for your master bedroom or guest room.",
+    "rating": 4.7,
+    "price": 49.99,
+    "slug": "memory-foam-pillow"
+  },
+  {
+    "productId": 22,
+    "name": "4K Action Camera",
+    "image": "https://example.com/images/actioncamera.jpg",
+    "category": "Electronics",
+    "description": "Capture every adventure with the 4K Action Camera, a waterproof, shockproof, and feature-packed alternative to expensive brands. It records video at 4K/30fps, 2.7K/60fps, and 1080p/120fps for smooth slow-motion. The 20MP photo mode supports burst and time-lapse. The 2-inch touchscreen on the back and a front-facing status screen make framing shots easy. Electronic image stabilization reduces shake, even during mountain biking or running. The camera is waterproof up to 33 feet (10 meters) without a case; with the included diving case, it goes to 130 feet. The 1300mAh battery lasts 90 minutes of continuous 4K recording. Dual antennas provide stable 5GHz Wi-Fi for live preview and file transfer to the free app. The camera supports external microphone via USB-C adapter (sold separately). It has HDMI output, microSD card slot (up to 256GB), and a rechargeable battery. Included accessories: waterproof case, handlebar mount, helmet mount, adhesive mounts, clips, and a 64GB card. The camera also supports voice control (English and Chinese). Perfect for vlogging, skiing, surfing, or dashcam use. The compact size (2.3 x 1.6 x 1.1 inches) and lightweight (2.5 oz) make it easy to mount anywhere. Backed by a 1-year warranty and responsive customer support. Get stunning footage without breaking the bank.",
+    "rating": 4.3,
+    "price": 89.99,
+    "slug": "4k-action-camera"
+  },
+  {
+    "productId": 23,
+    "name": "Aromatherapy Essential Oil Diffuser",
+    "image": "https://example.com/images/diffuser.jpg",
+    "category": "Home & Kitchen",
+    "description": "Transform your space into a relaxing oasis with the Aromatherapy Essential Oil Diffuser, a 500ml ultrasonic diffuser that doubles as a humidifier. It uses high-frequency vibration to break water and essential oils into a cool, fine mist, preserving the therapeutic properties. The diffuser runs for up to 10 hours on low mist or 6 hours on high mist. It has 7 color-changing LED lights that can be set to a single color or a rotating cycle. The auto shut-off feature turns the device off when water runs out. The diffuser is whisper-quiet (under 30dB), making it ideal for bedrooms, offices, or yoga studios. The water tank is BPA-free and easy to fill; the top-fill design prevents spills. The diffuser also includes a timer: 1 hour, 3 hours, or continuous. The mist output can be adjusted with a button. It covers rooms up to 320 square feet. The wood-grain finish complements any decor. Comes with a measuring cup and a quick start guide. No filters required; just clean weekly with vinegar. Use with any pure essential oil (not included) for aromatherapy benefits: lavender for sleep, peppermint for focus, tea tree for purification. This diffuser also adds moisture to dry air, helping with sinuses and dry skin. A great gift for wellness lovers. Backed by a 2-year replacement warranty.",
+    "rating": 4.7,
+    "price": 29.99,
+    "slug": "aromatherapy-essential-oil-diffuser"
+  },
+  {
+    "productId": 24,
+    "name": "Men's Casual Leather Sneakers",
+    "image": "https://example.com/images/leathersneakers.jpg",
+    "category": "Footwear",
+    "description": "Combine style and comfort with Men's Casual Leather Sneakers, handcrafted from genuine full-grain leather with a vulcanized rubber sole. The leather upper develops a rich patina over time and is breathable. The sneakers feature a lace-up design with waxed cotton laces and metal eyelets. The padded collar and removable memory foam insole provide all-day comfort. The outsole is non-slip and flexible, made from natural rubber. These sneakers are versatile: wear them with jeans, chinos, or even casual suits. The classic low-top silhouette works year-round. Available in tan brown, black, and navy. Sizes US 7 to 13 (including half sizes). The sneakers run true to size. The leather is water-resistant but not waterproof; treat with a protector spray for wet conditions. Each pair is lined with soft leather or breathable fabric (depending on color). The sole is stitched and glued for durability. Customers praise the break-in period (about 2-3 wears) after which they feel custom-fit. These sneakers are ethically made in a fair-wage factory. To clean, wipe with a damp cloth and use leather conditioner. With proper care, they will last years. Upgrade your footwear game with these timeless, comfortable sneakers. Free shipping and returns within 30 days.",
+    "rating": 4.5,
+    "price": 79.99,
+    "slug": "mens-casual-leather-sneakers"
+  },
+  {
+    "productId": 25,
+    "name": "Robot Vacuum Cleaner",
+    "image": "https://example.com/images/robotvacuum.jpg",
+    "category": "Home & Kitchen",
+    "description": "Enjoy clean floors effortlessly with the Robot Vacuum Cleaner, featuring smart navigation, strong suction, and self-charging. The vacuum uses gyro-assisted mapping to clean in neat rows, covering up to 1200 sq ft per session. It has 2000Pa suction power, easily picking up dust, pet hair, and crumbs. Three cleaning modes: auto, spot, and edge. The 600ml dustbin is large, and the included HEPA filter traps allergens. The vacuum runs for up to 120 minutes on hardwood floors (less on carpet) and automatically returns to the charging dock when battery is low. It has drop sensors to avoid stairs and bumpers to protect furniture. The 2.4GHz Wi-Fi connection allows control via smartphone app or voice assistant (Alexa, Google). Schedule cleaning any time. The vacuum comes with boundary strips to block off no-go zones. It also includes a remote control, two side brushes, a cleaning tool, and four extra filters. The height is only 3 inches, so it fits under most furniture. This model is suitable for hard floors, low-pile carpets, and rugs. For medium-pile carpets, suction may be less effective but still decent. The noise level is 65dB, similar to a microwave. Easy maintenance: empty bin and clean brushes weekly. Backed by a 1-year warranty. A time-saving appliance for busy households. Note: not a mop model; for vacuuming only.",
+    "rating": 4.2,
+    "price": 159.99,
+    "slug": "robot-vacuum-cleaner"
+  },
+  {
+    "productId": 26,
+    "name": "Wireless Charging Stand",
+    "image": "https://example.com/images/chargingstand.jpg",
+    "category": "Electronics",
+    "description": "Declutter your desk with the Wireless Charging Stand, a 3-in-1 charger for your phone, earbuds, and smartwatch. The stand delivers 15W fast charging for compatible Android phones (10W for iPhone), 5W for AirPods (or other wireless earbuds), and 2.5W for Apple Watch or similar. The phone charging pad is angled at 60 degrees, allowing you to use Face ID or view notifications while charging. The stand is made from aluminum and silicone to prevent slipping. The charging coils are positioned for optimal alignment; no need to remove most phone cases (up to 5mm thickness). The stand includes a QC 3.0 power adapter and USB-C cable. It has over-current, over-voltage, and over-temperature protection. The LED indicator shows charging status (white for standby, blue for charging, flashing if error). The base has non-slip feet. This charger is compatible with all Qi-enabled devices, including Samsung, Google, Pixel, and more. The earbud pad is flat, suitable for any wireless charging case. The watch charger is foldable for storage. The compact footprint (4.7 x 4.7 x 4.3 inches) saves space. Ideal for nightstand or office. Some users note that you need to position the watch carefully. The stand is not MagSafe compatible but works with MagSafe cases. Backed by a 12-month warranty. Simplify your charging routine with this all-in-one solution.",
+    "rating": 4.4,
+    "price": 49.99,
+    "slug": "wireless-charging-stand"
+  },
+  {
+    "productId": 27,
+    "name": "Women's High-Waist Yoga Leggings",
+    "image": "https://example.com/images/leggings.jpg",
+    "category": "Clothing",
+    "description": "Feel confident and comfortable in Women's High-Waist Yoga Leggings, designed for all types of workouts and everyday wear. The fabric is a blend of 75% nylon and 25% spandex, offering four-way stretch, moisture-wicking, and breathability. The high-waist band is 4 inches wide and provides tummy control without digging in. The leggings are squat-proof (opaque even when stretched). Flatlock seams reduce chafing. A hidden pocket in the waistband fits a key or card. The gusseted crotch allows full range of motion. Available in 15 colors and patterns, from basic black to marble and tie-dye. Sizes XS to XXL (size chart based on waist and hips). The leggings are mid-calf length (25-inch inseam for size M) but also available in 28-inch for tall. They are machine washable (cold, inside out) and resist pilling. Customers love these for yoga, running, CrossFit, or lounging. The fabric also has UV protection (UPF 50+). Compared to premium brands, these offer similar quality at a fraction of the price. The leggings have a subtle V-shape back seam to enhance shape. Over 15,000 verified reviews give a 4.6 average. We offer a hassle-free exchange if size doesn't fit. Upgrade your activewear collection with these versatile, durable leggings. They also pair great with oversized sweaters for casual outings.",
+    "rating": 4.7,
+    "price": 34.99,
+    "slug": "womens-high-waist-yoga-leggings"
+  },
+  {
+    "productId": 28,
+    "name": "Electric Kettle with Temperature Control",
+    "image": "https://example.com/images/kettle.jpg",
+    "category": "Home & Kitchen",
+    "description": "Boil water precisely with the Electric Kettle with Temperature Control, featuring 5 preset temperatures for different beverages: 160°F for delicate teas, 175°F for green tea, 185°F for white tea, 200°F for oolong, and 212°F for black tea or coffee. The kettle has a 1.7-liter capacity (7 cups) and is made of double-wall stainless steel with a cool-touch exterior. The interior is 304 food-grade stainless steel with wide opening for easy cleaning. The 1500W heating element brings water to a boil in about 5 minutes. The LCD display shows the current temperature, and the keep-warm function holds the set temperature for up to 2 hours. The kettle automatically shuts off when water boils or when lifted from base, and it has boil-dry protection. The cordless base swivels 360 degrees. The lid opens with a single button. The spout has a removable mesh filter to trap limescale. The kettle also features a blue LED indicator light when heating. Perfect for tea connoisseurs, pour-over coffee, instant oatmeal, or baby formula. The exterior doesn't get hot, so it's safe around children. The kettle comes with a descaling pouch and 1-year warranty. It's BPA-free and meets UL safety standards. Customers appreciate the accuracy (within 2 degrees). Say goodbye to guessing water temperature. This kettle elevates your hot beverage routine.",
+    "rating": 4.6,
+    "price": 69.99,
+    "slug": "electric-kettle-temperature-control"
+  },
+  {
+    "productId": 29,
+    "name": "Foldable Bike Helmet",
+    "image": "https://example.com/images/helmet.jpg",
+    "category": "Sports & Outdoors",
+    "description": "Stay safe and save space with the Foldable Bike Helmet, a commuter's dream that collapses to half its size for easy storage. The helmet uses a unique interlocking honeycomb structure made of EPS foam and ABS shell. It meets CPSC safety standards for bicycle helmets. The folding mechanism is simple: press the button and fold into a compact shape (9 x 6 x 4 inches) that fits in most backpacks. Unfolded, it has 11 vents for airflow and a built-in visor. The helmet has an adjustable dial fit system for sizes 54-61cm (most adults). The padding is removable and washable. The straps are reflective for night visibility, and there's a magnetic buckle for one-handed fastening. The helmet weighs only 320 grams (11.3 oz). It is suitable for bike sharing, skateboarding, or rollerblading. The helmet comes with a carrying pouch. The outer shell is scratch-resistant and available in matte black, white, red, and blue. Unlike traditional helmets, this one doesn't deform when folded, so safety is not compromised. The folding mechanism has been tested over 5000 cycles. The helmet also has a small rear LED light (battery included) for extra safety. Many urban commuters love this for its portability. However, it's not rated for high-impact sports like downhill mountain biking. For daily city riding, it's perfect. Backed by a 2-year warranty. Never leave your helmet behind again.",
+    "rating": 4.3,
+    "price": 79.99,
+    "slug": "foldable-bike-helmet"
+  },
+  {
+    "productId": 30,
+    "name": "Smart LED Light Bulbs (4-Pack)",
+    "image": "https://example.com/images/lightbulbs.jpg",
+    "category": "Electronics",
+    "description": "Illuminate your home with the Smart LED Light Bulbs, a 4-pack of color-changing, dimmable bulbs that work with Alexa, Google Assistant, and Apple HomeKit. Each bulb is 9W (equivalent to 60W incandescent) and produces 800 lumens of brightness. Color temperature ranges from 2200K warm white to 6500K daylight, plus 16 million colors for mood lighting. No hub required; connect directly to 2.4GHz Wi-Fi. The free app allows you to set schedules, routines, and scenes. You can group bulbs by room and control them individually. The bulbs support voice control: turn on/off, dim, change colors. They also have a \"vacation mode\" that randomizes on/off times. Energy saving: they use about 80% less energy than traditional bulbs and last 25,000 hours (over 22 years at 3 hours/day). The bulbs are ETL listed for safety and have a 3-year warranty. They work with standard E26 sockets and are not dimmable with traditional wall dimmers; use the app or voice for dimming. The bulbs also have a built-in circadian rhythm feature that automatically adjusts color temperature throughout the day. Setup is easy: screw in, download app, and follow pairing. Customers love the responsiveness and color vibrancy. These bulbs are great for parties, home theater, or wake-up alarms. You can also sync them with music or gaming. A cost-effective way to make your home smarter. Each bulb is 4.5 inches tall, fitting most lamps and fixtures.",
+    "rating": 4.5,
+    "price": 29.99,
+    "slug": "smart-led-light-bulbs-4-pack"
+  }
+]

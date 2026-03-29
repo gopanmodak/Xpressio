@@ -17,3 +17,8 @@ body{
   scroll-behavior: smooth;
   
 }
+
+.carousel {
+    border-radius: 10px !important; 
+    overflow: hidden !important;
+}
