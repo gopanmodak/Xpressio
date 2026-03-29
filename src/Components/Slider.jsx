@@ -20,6 +20,10 @@ const Slider = () => {
       image:
         "https://www.onestopsolution.com.bd/image/cache/catalog/website/slider/OFFER%20BANNER-1-2560x860h.jpg.webp",
     },
+    {
+      image:
+        "https://kola.wpbingosite.com/wp-content/uploads/2018/12/imgslide22.png",
+    },
     { image: banner1 },
     { image: banner2 },
     { image: banner3 },
@@ -37,6 +41,7 @@ const Slider = () => {
         showThumbs={false}
         showStatus={false}
         interval={4000}
+        
       >
         {slides.map((slide, index) => (
           <div key={index} className="relative h-63 md:h-90 lg:h-120">

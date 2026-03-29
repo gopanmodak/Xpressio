@@ -2,6 +2,7 @@ import React from 'react'
 import Slider from '../Components/Slider'
 import Marquee from 'react-fast-marquee'
 import MyComponent from '../Components/MyComponent'
+import CommonComponent from '../Components/CommonComponent'
 
 
 const Home = () => {
@@ -10,6 +11,7 @@ const Home = () => {
 
         <Slider/>
    <MyComponent/>
+   <CommonComponent/>
         
         
     </div>

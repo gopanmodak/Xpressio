@@ -2,12 +2,12 @@ import { createBrowserRouter } from "react-router-dom";
 import App from "./App";
 import Home from "./Pages/Home";
 import Deals from "./Pages/Deals";
-import Packages from "./Pages/Packages";
 import NewArrivals from "./Pages/NewArrivals";
 import About from "./Pages/About";
 import Login from "./Pages/Login";
 import SignUp from "./Pages/SignUp";
 import Cart from "./Pages/Cart";
+import Vegetable from "./Pages/Vegetable";
 
 export const routes=createBrowserRouter([
 
@@ -24,8 +24,8 @@ export const routes=createBrowserRouter([
                 element:<Deals/>
             },
             {
-                path:'/packages',
-                element:<Packages/>
+                path:'/Vegetable',
+                element:<Vegetable/>
             },
             {
                 path:'/newarrivals',

@@ -5,7 +5,7 @@ import { PiShoppingCartSimpleLight } from "react-icons/pi";
 
 const Navbar = () => {
   return (
-    <div className="flex justify-between items-center py-5 px-15 backdrop-blur-lg shadow-lg fixed top-0 w-full z-50">
+    <div className="flex justify-between items-center py-5 px-15 backdrop-blur-lg shadow-lg fixed top-0 w-full z-50 bg-white/60">
       <div>
         <img src={logo} alt="logo" className="max-w-35" />
       </div>
@@ -13,7 +13,7 @@ const Navbar = () => {
         <ul className="flex gap-5">
           <NavLink to="/">Home</NavLink>
           <NavLink to="/deals">Deals</NavLink>
-          <NavLink to="/packages">Packages</NavLink>
+          <NavLink to="/Vegetable">Vegetable</NavLink>
           <NavLink to="/newarrivals">New Arrivals</NavLink>
           <NavLink to="/about">About</NavLink>
         </ul>

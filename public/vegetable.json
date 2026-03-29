@@ -1,0 +1,110 @@
+[
+  {
+    "productId": 1,
+    "title": "Fresh Organic Carrots",
+    "image": "https://example.com/images/carrots.jpg",
+    "price": 2.49,
+    "slug": "fresh-organic-carrots",
+    "categories": "Root Vegetables",
+    "description": "Our Fresh Organic Carrots are grown in nutrient-rich soil without synthetic pesticides or fertilizers. These vibrant orange carrots are harvested at peak ripeness to ensure maximum sweetness and crunch. Each carrot is firm, smooth, and free from blemishes, offering an earthy yet sweet flavor that shines in both raw and cooked dishes. Carrots are an excellent source of beta-carotene, fiber, vitamin K1, potassium, and antioxidants. They support eye health, boost immunity, and promote healthy skin. You can enjoy them as a crunchy snack with hummus, grate them into salads, or roast them with honey and herbs for a delicious side dish. They also add natural sweetness to soups, stews, and smoothies. Our carrots come in a 1-pound bundle, approximately 6-8 medium carrots. We source them from local organic farms that practice sustainable agriculture. To keep them fresh, store in the refrigerator crisper drawer in a perforated bag. They will stay crisp for up to two weeks. Whether you are meal prepping, juicing, or simply looking for a healthy snack, these organic carrots are a versatile and nutritious choice. Try them in our favorite carrot cake recipe included on the packaging. Certified organic by USDA. Non-GMO project verified. Packaged in compostable bags. Order today and taste the difference of farm-fresh produce delivered to your door."
+  },
+  {
+    "productId": 2,
+    "title": "Green Bell Peppers",
+    "image": "https://example.com/images/bellpeppers.jpg",
+    "price": 3.99,
+    "slug": "green-bell-peppers",
+    "categories": "Fruiting Vegetables",
+    "description": "These crisp and refreshing Green Bell Peppers are hand-picked at the perfect stage of maturity, offering a mildly bitter yet sweet flavor that becomes more pronounced when cooked. Each pepper is large, glossy, and thick-walled, weighing about 8-10 ounces. Green bell peppers are unripe versions of red, yellow, or orange peppers, but they have their own distinct taste and are lower in sugar and higher in chlorophyll. They are an excellent source of vitamins C, A, and B6, as well as fiber and antioxidants. Vitamin C content is surprisingly high – one medium pepper provides over 150% of your daily needs. Use them raw in salads, on sandwiches, or as dippers for sauces. They also shine in stir-fries, fajitas, stuffed pepper recipes, and roasted vegetable medleys. You can dice them into omelets, pasta sauces, or casseroles. Our peppers are grown in greenhouses to protect them from pests and harsh weather, ensuring consistent quality year-round. We pack them in ventilated boxes to prevent moisture buildup. Store them unwashed in the refrigerator crisper drawer for up to one week. To freeze, blanch sliced peppers for 2 minutes, then plunge into ice water and freeze in airtight bags. These bell peppers are non-GMO and grown with integrated pest management (IPM) practices. Add vibrant color and crunch to your meals with our farm-fresh green bell peppers. Perfect for home cooks and professional chefs alike."
+  },
+  {
+    "productId": 3,
+    "title": "Organic Spinach Leaves",
+    "image": "https://example.com/images/spinach.jpg",
+    "price": 3.49,
+    "slug": "organic-spinach-leaves",
+    "categories": "Leafy Greens",
+    "description": "Our Organic Spinach Leaves are tender, dark green, and packed with nutrients. Harvested early in the morning to preserve crispness and flavor, these leaves are grown without chemical fertilizers or GMOs. Spinach is renowned as a superfood – it is rich in iron, calcium, magnesium, vitamins A, C, K1, folic acid, and powerful antioxidants like lutein and zeaxanthin that protect eye health. Each 5-ounce clamshell contains washed and ready-to-eat leaves, although we recommend a quick rinse before use. The flavor is mild, slightly sweet, and earthy, with no bitterness. Use spinach raw as a base for salads, in smoothies, or on sandwiches and wraps. When cooked, it wilts down dramatically – one bag yields about 1 cup cooked. Sauté with garlic and olive oil, add to soups, curries, omelets, or pasta dishes. You can also blend it into pesto or bake into savory quiches. Our spinach is grown hydroponically in controlled environments, ensuring no soil-borne diseases and minimal pesticide use. It is certified organic by California Certified Organic Farmers (CCOF). To extend shelf life, store unwashed in the refrigerator and use within 5-7 days. You can also freeze cooked spinach for later use. Each serving provides a significant portion of your daily vitamin K and manganese needs. Whether you are a health enthusiast, a parent looking to add greens to your child's diet, or a chef seeking quality ingredients, our organic spinach is a reliable choice. Enjoy farm-fresh taste delivered to your doorstep."
+  },
+  {
+    "productId": 4,
+    "title": "Broccoli Crowns",
+    "image": "https://example.com/images/broccoli.jpg",
+    "price": 2.99,
+    "slug": "broccoli-crowns",
+    "categories": "Cruciferous Vegetables",
+    "description": "These fresh Broccoli Crowns feature tight, dark green florets and firm, tender stems. Unlike whole broccoli with long stalks, our crowns are trimmed to give you more edible florets and less waste. Broccoli is a nutritional powerhouse, packed with vitamin C, vitamin K, folate, potassium, and sulforaphane – a compound studied for its cancer-fighting properties. One cup of chopped broccoli provides over 100% of your daily vitamin C and K needs. The flavor is mildly earthy with a slight sweetness when cooked properly. Enjoy broccoli raw with dip, in salads, or as part of a crudité platter. Steaming or roasting brings out its best texture – toss florets with olive oil, salt, and pepper, then roast at 425°F for 15 minutes until edges are crispy. You can also stir-fry, blanch for casseroles, or add to soups and pasta. Our broccoli is grown in cool coastal regions to ensure tender, non-woody stems. It is harvested by hand and packed in breathable bags to maintain freshness. Store in the refrigerator crisper drawer for up to 5 days. To freeze, blanch florets for 3 minutes, then ice bath and freeze. We practice sustainable farming, rotating crops to maintain soil health. This broccoli is non-GMO and tested for pesticide residues. Add this versatile vegetable to your weekly meal plan for a delicious boost of nutrients. Perfect for roasting, steaming, or even grilling. Try it with a squeeze of lemon and parmesan cheese."
+  },
+  {
+    "productId": 5,
+    "title": "Heirloom Tomatoes",
+    "image": "https://example.com/images/tomatoes.jpg",
+    "price": 5.99,
+    "slug": "heirloom-tomatoes",
+    "categories": "Fruiting Vegetables",
+    "description": "Our Heirloom Tomatoes are a celebration of flavor, color, and history. Grown from seeds passed down for generations, these tomatoes are not hybridized or genetically modified. Each 2-pound assortment includes a mix of varieties: Purple Cherokee (deep red-purple with rich, smoky taste), Green Zebra (yellow-green stripes with tangy citrus notes), Brandywine (pinkish-red, sweet and balanced), and Yellow Pear (small, mild, and sweet). Heirloom tomatoes are known for their complex, intense tomato flavor that far exceeds standard grocery store tomatoes. They are juicy, meaty, and perfect for eating raw. Slice them for sandwiches, dice into bruschetta, or simply sprinkle with sea salt and olive oil. They also make incredible sauces and gazpacho. These tomatoes are grown in open fields using organic practices, though not certified. They are vine-ripened and picked within 24 hours of shipping. The skin may have slight cracks or odd shapes – that's the hallmark of heirlooms. Store at room temperature away from direct sunlight and use within 3-5 days. Never refrigerate whole tomatoes as cold ruins their texture and flavor. Each tomato is a unique work of art. Heirlooms are rich in lycopene, vitamin C, and beta-carotene. Support biodiversity by choosing heirloom varieties. Whether you're a tomato connoisseur or just want the best BLT of your life, these tomatoes deliver unparalleled taste. Available seasonally from July to September. Order now for a taste of summer."
+  },
+  {
+    "productId": 6,
+    "title": "Russet Potatoes",
+    "image": "https://example.com/images/potatoes.jpg",
+    "price": 4.49,
+    "slug": "russet-potatoes",
+    "categories": "Root Vegetables",
+    "description": "Russet Potatoes, also known as Idaho potatoes, are the gold standard for baking, mashing, and frying. These large, oblong potatoes have a rough, netted brown skin and fluffy, starchy white flesh. Our 5-pound bag contains potatoes that are carefully cured and stored to maintain low sugar content, which prevents darkening when fried. Russets are high in starch and low in moisture, making them ideal for crispy exteriors and airy interiors. Bake them at 400°F for about an hour until skins are crisp and insides are fluffy. For the best mashed potatoes, boil peeled chunks until tender, then rice or mash with butter and cream. They are also perfect for french fries, potato wedges, and hash browns. Nutritionally, russets provide vitamin C, potassium, vitamin B6, and fiber (especially if you eat the skin). They are naturally fat-free and cholesterol-free. Our potatoes are grown in volcanic soil in Idaho, which gives them their distinctive flavor and texture. We store them in climate-controlled facilities to prevent sprouting. Keep them in a cool, dark, dry place (not the refrigerator) and use within 2-3 weeks. Avoid green potatoes as they contain solanine. These potatoes are non-GMO and grown by family farms. Whether you're making a classic baked potato bar, creamy potato soup, or crispy latkes, russet potatoes deliver consistent results. Each potato is hand-selected for size and freedom from defects. Add this pantry staple to your order today."
+  },
+  {
+    "productId": 7,
+    "title": "Cauliflower Head",
+    "image": "https://example.com/images/cauliflower.jpg",
+    "price": 3.79,
+    "slug": "cauliflower-head",
+    "categories": "Cruciferous Vegetables",
+    "description": "This large, pristine Cauliflower Head features tightly packed white florets surrounded by fresh green leaves. Cauliflower is incredibly versatile – it can be roasted, riced, mashed, or even turned into pizza crust and buffalo wings. Our cauliflower weighs approximately 2 pounds and is grown in cool coastal regions for optimal sweetness and texture. The flavor is mild, slightly nutty, and sweet when roasted. Cauliflower is low in carbohydrates and calories but high in fiber, vitamin C, vitamin K, and choline. It also contains glucosinolates and isothiocyanates, compounds that may help protect against certain cancers. To prepare, remove leaves and cut into florets. Roast with turmeric and cumin for a flavorful side dish. For cauliflower rice, pulse florets in a food processor until grain-sized, then sauté. You can also steam and mash with butter and garlic as a low-carb alternative to mashed potatoes. Our cauliflower is grown using integrated pest management, reducing chemical inputs. It is harvested by hand to avoid bruising. Store in the refrigerator crisper drawer, unwashed, in a perforated bag for up to one week. You can also blanch and freeze florets for longer storage. This cauliflower is non-GMO and certified organic by Oregon Tilth. Try our favorite recipe: cauliflower steaks brushed with harissa paste and grilled. Whether you follow a keto, paleo, or simply healthy diet, cauliflower is a must-have vegetable. Order now and explore its endless possibilities."
+  },
+  {
+    "productId": 8,
+    "title": "Zucchini Squash",
+    "image": "https://example.com/images/zucchini.jpg",
+    "price": 2.29,
+    "slug": "zucchini-squash",
+    "categories": "Fruiting Vegetables",
+    "description": "Our Zucchini Squash are young, tender, and harvested when just 6-8 inches long for optimal flavor and texture. The skin is dark green, thin, and edible, while the flesh is pale green, moist, and mild with a slightly sweet, vegetal taste. Zucchini is incredibly versatile – you can spiralize it into noodles (zoodles), slice into rounds for grilling, dice into frittatas, or shred for moist zucchini bread. Each 1-pound bag contains 2-3 medium zucchinis. Zucchini is low in calories (only 17 per cup) but provides vitamin C, manganese, vitamin A, and antioxidants like lutein and zeaxanthin. It also contains fiber that aids digestion. Our zucchini is grown in open fields using organic practices, with no synthetic pesticides. The plants are pollinated naturally by bees. We harvest daily to ensure small, tender fruits because larger zucchinis become seedy and watery. To store, keep unwashed in a perforated bag in the refrigerator crisper drawer for up to 5 days. Do not wash until ready to use. Zucchini can be eaten raw in salads, but cooking brings out its sweetness. Sauté with garlic and herbs, grill with olive oil, or roast with cherry tomatoes. You can also stuff them with rice and meat. For a low-carb lasagna, use sliced zucchini instead of noodles. Our zucchini is non-GMO and grown by small family farms. Add this summer squash to your cart for delicious and healthy meals. Try our signature zucchini fritters recipe on the bag."
+  },
+  {
+    "productId": 9,
+    "title": "Red Onions",
+    "image": "https://example.com/images/onions.jpg",
+    "price": 1.99,
+    "slug": "red-onions",
+    "categories": "Allium Vegetables",
+    "description": "These Red Onions are medium to large, with deep purple-red skin and white flesh tinged with red. They have a milder, slightly sweeter flavor than yellow onions, making them excellent for raw applications like salads, sandwiches, burgers, and salsas. When cooked, they become even sweeter and add beautiful color to dishes. Each 2-pound bag contains about 5-6 onions. Red onions are rich in quercetin, a powerful antioxidant with anti-inflammatory properties, as well as anthocyanins (the pigment that gives them their color) and chromium. They also provide vitamin C, fiber, and prebiotics that support gut health. Our onions are grown in dry, sunny climates and cured for 2-3 weeks after harvest to develop their papery outer skins and long storage life. They are free from sprouting and soft spots. Store in a cool, dark, well-ventilated place away from potatoes (which release moisture and gases that cause onions to spoil). Do not refrigerate whole onions. Use within 1-2 months. To prepare, cut off the stem end and peel away the papery skin. Red onions are perfect for pickling – slice thinly and soak in vinegar, sugar, and salt for 30 minutes to make quick pickled onions for tacos or BBQ. They also caramelize beautifully, though yellow onions are sweeter for that purpose. Our red onions are non-GMO and grown using sustainable farming methods. Add a burst of color and flavor to your kitchen with these versatile bulbs. Perfect for homemade pico de gallo, onion rings, or French onion soup."
+  },
+  {
+    "productId": 10,
+    "title": "Butternut Squash",
+    "image": "https://example.com/images/butternutsquash.jpg",
+    "price": 3.29,
+    "slug": "butternut-squash",
+    "categories": "Winter Squash",
+    "description": "Butternut Squash is a beloved winter squash with a sweet, nutty flavor and creamy, orange flesh. Each squash weighs about 2-3 pounds and has a beige, hard skin that protects the fruit during storage. The bulbous end contains the seed cavity, while the long neck is solid flesh – perfect for cubing. Butternut squash is rich in vitamin A (one cup provides over 450% of your daily needs), vitamin C, magnesium, and fiber. It is also a good source of antioxidants like beta-carotene. The flavor deepens with storage, becoming sweeter over time. To prepare, peel with a vegetable peeler (or microwave for 30 seconds to soften skin), then cut in half, scoop out seeds, and cube. Roast cubes at 400°F with olive oil, salt, and pepper until caramelized. You can also make butternut squash soup, risotto, ravioli filling, or simply mash it with butter and cinnamon. For a quick meal, poke holes in the whole squash and microwave for 10-12 minutes, then cut and serve. Our butternut squash is grown in organic soil without synthetic fertilizers. It is harvested after the vines die back, then cured for 10 days to harden the skin and improve sweetness. Store in a cool, dry place (50-60°F) for up to 3 months. Do not refrigerate whole uncut squash. Once cut, wrap tightly and refrigerate for up to 5 days. This squash is non-GMO and Certified Naturally Grown. Add this versatile winter squash to your fall and winter menu. Try our recipe for roasted butternut squash with sage and brown butter."
+  },
+  {
+    "productId": 11,
+    "title": "Asparagus Spears",
+    "image": "https://example.com/images/asparagus.jpg",
+    "price": 4.99,
+    "slug": "asparagus-spears",
+    "categories": "Stem Vegetables",
+    "description": "These Asparagus Spears are thin to medium in thickness (about pencil-width), harvested at the peak of spring season for maximum tenderness and flavor. Each bundle contains approximately 1 pound of spears, tightly bound with a rubber band. The tips are tight and purple-tinged, while the stalks are bright green and firm. Asparagus has a distinct, grassy, slightly sweet flavor that pairs perfectly with lemon, parmesan, and eggs. It is one of the most nutrient-dense vegetables, providing high levels of folate, vitamin K, vitamin C, vitamin A, and chromium. Asparagus also contains inulin, a prebiotic fiber that supports digestive health, and antioxidants that may have anti-aging effects. To prepare, snap off the woody ends (they naturally break where the tough part ends). Then steam, boil, roast, or grill. Roasting at 425°F for 10-12 minutes with olive oil and salt yields crispy tips and tender stalks. You can also blanch and shock in ice water for salads. Asparagus is delicious wrapped in prosciutto, added to quiches, or served with hollandaise sauce. Our asparagus is grown in sandy soils of Michigan, hand-harvested each morning. It is perishable and best eaten within 2-3 days of delivery. Store upright in a glass with an inch of water, covered loosely with a plastic bag, in the refrigerator. For longer storage, blanch and freeze. This asparagus is non-GMO and grown without synthetic pesticides. Celebrate spring with this elegant vegetable. Try our favorite recipe: asparagus with poached eggs and lemon vinaigrette."
+  },
+  {
+    "productId": 12,
+    "title": "Iceberg Lettuce Head",
+    "image": "https://example.com/images/lettuce.jpg",
+    "price": 1.89,
+    "slug": "iceberg-lettuce-head",
+    "categories": "Leafy Greens",
+    "description": "This crisp, dense Iceberg Lettuce Head is the classic choice for wedge salads, burgers, and tacos. Weighing about 1.5 pounds, the head is tightly packed with pale green leaves that offer an incredibly refreshing crunch and very mild, slightly sweet flavor. While iceberg is often criticized for being less nutritious than darker greens, it still provides vitamin A, vitamin K, folate, and water (over 95% water content), making it hydrating and low in calories. It also adds texture and bulk to meals without overpowering other flavors. To prepare, remove the core by thumping the stem on the counter and twisting it out, then rinse leaves or chop as desired. Iceberg holds up well to heavy dressings like creamy ranch or blue cheese. The classic wedge salad involves cutting the head into quarters, drizzling with dressing, and topping with bacon, tomatoes, and chives. Use iceberg leaves as low-carb taco shells or burger wraps. Shred it for tacos, sandwiches, or fish tacos. Our iceberg lettuce is grown hydroponically in greenhouses to ensure a clean, pest-free product. It is harvested with the root ball attached to maintain freshness. Store in the refrigerator crisper drawer, unwashed, for up to 10 days. Do not freeze. This lettuce is non-GMO and grown without soil, which eliminates many common contaminants. Whether you're making a classic chef salad or need a crunchy bed for chicken salad, iceberg lettuce delivers reliable texture. Order today for that satisfying crunch you crave."
+  }
+]
