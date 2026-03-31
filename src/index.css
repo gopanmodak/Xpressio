@@ -9,6 +9,9 @@
   --font-sans: "Inter", "Poppins", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
 }
+body{
+  font-family: ;
+}
 .active {
   color: blue;
   font-weight: semibold;

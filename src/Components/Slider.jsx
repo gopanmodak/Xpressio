@@ -2,13 +2,13 @@ import React from "react";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
-import banner1 from "../assets/banner-1.jpg";
-import banner2 from "../assets/banner-2.jpg";
-import banner3 from "../assets/banner-3.jpg";
-import banner4 from "../assets/banner-4.jpg";
-import banner5 from "../assets/banner-5.jpg";
-import banner6 from "../assets/banner-6.jpg";
-import banner7 from "../assets/banner-7.jpg";
+import banner1 from "../assets/banner-1.webp";
+import banner2 from "../assets/banner-2.webp";
+import banner3 from "../assets/banner-3.webp";
+import banner4 from "../assets/banner-4.webp";
+import banner5 from "../assets/banner-5.webp";
+import banner6 from "../assets/banner-6.webp";
+import banner7 from "../assets/banner-7.webp";
 
 const Slider = () => {
   const slides = [

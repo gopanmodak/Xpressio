@@ -8,6 +8,8 @@ import Login from "./Pages/Login";
 import SignUp from "./Pages/SignUp";
 import Cart from "./Pages/Cart";
 import Vegetable from "./Pages/Vegetable";
+import Privacy from './Pages/Privacy';
+import ReturnPolicy from "./Pages/ReturnPolicy";
 
 export const routes=createBrowserRouter([
 
@@ -20,33 +22,42 @@ export const routes=createBrowserRouter([
                 element:<Home/>
             },
             {
-                path:'/deals',
+                path:'deals',
                 element:<Deals/>
             },
             {
-                path:'/Vegetable',
+                path:'Vegetable',
                 element:<Vegetable/>
             },
             {
-                path:'/newarrivals',
+                path:'newarrivals',
                 element:<NewArrivals/>
             },
             {
-                path:'/about',
+                path:'about',
                 element:<About/>
             },
             {
-                path:'/login',
+                path:'login',
                 element:<Login/>
             },
             {
-                path:'/signup',
+                path:'signup',
                 element:<SignUp/>
             },
             {
-                path:'/cart',
+                path:'cart',
                 element:<Cart/>
+            },
+            {
+                path:'privacy',
+                element:<Privacy/>
+            },
+            {
+                path:'returnpolicy',
+                element:<ReturnPolicy/>
             }
+            
         ]
     }
 ])
