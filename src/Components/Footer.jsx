@@ -45,6 +45,9 @@ const Footer = () => {
 					<li>
 						<Link to='/returnpolicy'>Return Policy</Link>
 					</li>
+					<li>
+						<Link to='/about'>About Us</Link>
+					</li>
 				</ul>
 			</div>
 			<div className="space-y-3">

@@ -19,7 +19,7 @@ const Vegetable = () => {
           <VegetablePage key={item.productId} item={item} />
         ))}
       </div>
-      <div className="max-w-7xl mx-auto bg-[#f3f2ed] flex justify-between p-10 rounded-lg mt-10">
+      <div className="max-w-7xl mx-auto bg-[#f3f2ed] flex justify-between p-10 rounded-lg my-10">
         <img
           src="https://kola.wpbingosite.com/wp-content/uploads/2018/10/brand1.png"
           alt=""
