@@ -7,7 +7,7 @@ const NewArrivalsPages = ({product}) => {
         <div className="card bg-base-100 w-96 shadow-sm h-120 my-10">
   <figure>
     <img
-      src={product.images}
+      src={product?.images || "https://media.istockphoto.com/id/1396814518/vector/image-coming-soon-no-photo-no-thumbnail-image-available-vector-illustration.jpg?s=612x612&w=0&k=20&c=hnh2OZgQGhf0b46-J2z7aHbIWwq8HNlSDaNp2wn_iko="}
       alt="Shoes" />
   </figure>
   <div className="card-body">

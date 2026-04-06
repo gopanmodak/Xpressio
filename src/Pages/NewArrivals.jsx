@@ -6,7 +6,7 @@ const NewArrivals = () => {
   const products=useLoaderData()
   console.log(products)
 
-  if (!products || products.length === 0) {
+  if (!products) {
   return (
     <div className="flex justify-center items-center h-screen">
       <span className="loading loading-spinner text-error"></span>

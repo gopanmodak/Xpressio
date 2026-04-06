@@ -9,7 +9,7 @@ const Navbar = () => {
       <div>
         <img src={logo} alt="logo" className="max-w-35" />
       </div>
-      <div>
+      <div >
         <ul className="flex gap-5">
           <NavLink to="/">Home</NavLink>
           <NavLink to="/deals">Deals</NavLink>
@@ -18,6 +18,7 @@ const Navbar = () => {
           <NavLink to="/about">About</NavLink>
         </ul>
       </div>
+      
       <div className="flex gap-5 justify-center items-center">
         <Link to="/login" className="btn btn-accent">
           Login

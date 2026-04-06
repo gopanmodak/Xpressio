@@ -10,7 +10,7 @@ const App = () => {
       <ScrollTop/>
 
       <Navbar/>
-      <div className="mt-42">
+      <div className="mt-40">
         <Outlet/>
       </div>
 
