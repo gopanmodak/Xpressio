@@ -1,5 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+// eslint-disable-next-line no-unused-vars
+import { motion } from 'framer-motion';
 
 const VegetablePage = ({item}) => {
   if (!item){
@@ -11,7 +13,11 @@ const VegetablePage = ({item}) => {
   }
   return (
     <Link to={`/vegetable/${item.slug}`}>
-        <div className="card bg-base-100 w-96 shadow-sm">
+        <motion.div
+        initial={{ x: -100, opacity: 0 }}
+          whileInView={{ x: 0, opacity: 1 }}
+          transition={{ duration: 1 }}
+        className="card bg-base-100 w-96 shadow-sm">
   <figure>
     <img
       src={item.image}
@@ -26,7 +32,7 @@ const VegetablePage = ({item}) => {
       <button className="btn btn-primary">Buy Now</button>
     </div>
   </div>
-</div>
+</motion.div>
     </Link>
   )
 }

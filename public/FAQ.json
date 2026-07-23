@@ -1,0 +1,177 @@
+ [
+    {
+      "id": 1,
+      "question": "How do I place an order?",
+      "answer": "Start by browsing our website or mobile app. Find the product you like, check its details (size, color, specifications), and click \"Add to Cart\". Repeat for all desired items. Once done, click the cart icon (top right) to review your order – verify quantities, variants, and prices. Then proceed to Checkout. Fill in your complete delivery address accurately (district, sub-district, street, house number, and any landmark). Choose your preferred payment method from the available options. Finally, click \"Confirm Order\". You will receive a confirmation message via email and SMS with your order ID and summary."
+    },
+    {
+      "id": 2,
+      "question": "How can I create an account?",
+      "answer": "Click the \"Sign Up\" or \"Register\" button at the top right of the homepage. Fill in the registration form with your full name, valid email address, active mobile number, and a strong password (at least 8 characters, including uppercase, lowercase, and numbers). After submitting, we will send a verification code to your email or phone. Enter that code in the designated field to verify your identity. Once verified, your account becomes active, and you can log in immediately. You may also optionally add a profile picture and default shipping address later."
+    },
+    {
+      "id": 3,
+      "question": "Can I place an order without creating an account?",
+      "answer": "Yes, absolutely. You can use the \"Guest Checkout\" option at the time of payment – just provide your shipping details and contact information without registering. However, creating an account gives you several advantages: you can track all your orders in one place, view complete purchase history, save products to a wishlist, reorder previous items with one click, and enjoy faster checkout (pre-filled addresses). We recommend signing up for a smoother experience."
+    },
+    {
+      "id": 4,
+      "question": "What payment methods do you accept?",
+      "answer": "We support all major payment systems in Bangladesh: All Credit/Debit Cards (Visa, Mastercard, American Express), Mobile financial services – bKash, Nagad, Rocket, Direct Bank Transfer (via online banking or over-the-counter deposit), and Cash on Delivery (COD) – available in selected areas. During checkout, you will see which options are valid for your location and order value."
+    },
+    {
+      "id": 5,
+      "question": "Is Cash on Delivery (COD) available?",
+      "answer": "Yes, Cash on Delivery is available in many urban and semi-urban areas across Bangladesh. However, not all locations are covered – particularly remote or off-route areas may not support COD. When you enter your delivery address during checkout, the system will automatically show whether COD is an option for you. If not, you will be asked to pay online or via mobile banking. For COD orders, our delivery agent will collect the exact amount in cash at the time of delivery – please have the correct change ready."
+    },
+    {
+      "id": 6,
+      "question": "How long does delivery take?",
+      "answer": "Delivery time depends on your location: Major cities (Dhaka, Chittagong, Rajshahi, Khulna, Sylhet, Barishal) and their surrounding districts: 1–3 business days (excluding Fridays and public holidays). Other districts and rural areas: 3–7 business days. Please note that unforeseen events like severe weather, traffic congestion, or national holidays may cause slight delays. We always provide an estimated delivery date at checkout, and you will receive real-time tracking updates once your order is dispatched."
+    },
+    {
+      "id": 7,
+      "question": "How much is the delivery charge?",
+      "answer": "Delivery charges are calculated based on your delivery address, the weight/size of the product, and the chosen shipping method. The exact fee is displayed clearly on the checkout page before you make payment, so you will never be surprised by hidden costs. Additionally, we often run promotions where delivery is free for orders above a certain amount (e.g., ৳500 or ৳1000) – check our current offers on the homepage or banner."
+    },
+    {
+      "id": 8,
+      "question": "How can I track my order?",
+      "answer": "Once your order is packed and handed over to the courier, we will send you a tracking number via SMS and email. You can use this number on the courier service’s website or mobile app to see the live status (picked up, in transit, out for delivery, delivered). If you are a registered user, you can also log in to your account, go to \"My Orders\", and click on the specific order – there you will see a detailed timeline and the current status without needing a separate tracking link."
+    },
+    {
+      "id": 9,
+      "question": "Can I cancel my order after placing it?",
+      "answer": "Yes, you can cancel your order as long as it has not yet been dispatched from our warehouse. To cancel, log in to your account, go to \"My Orders\", select the order, and click the \"Cancel\" button (if available). Alternatively, contact our customer support team with your order ID. Once the order is handed over to the courier and marked as \"Shipped\", cancellation is no longer possible – you will need to accept the delivery and then follow our return policy if you are unsatisfied."
+    },
+    {
+      "id": 10,
+      "question": "Can I change my delivery address after ordering?",
+      "answer": "If your order is still in the processing stage (not yet packed or dispatched), you can request an address change by contacting our support team immediately. We will update it in our system if the courier has not yet picked up the parcel. However, once the order has been dispatched, we cannot modify the address because the courier’s shipping label is already generated. Therefore, please double-check your address before finalizing your order."
+    },
+    {
+      "id": 11,
+      "question": "What is your return policy?",
+      "answer": "We offer a straightforward return policy: you may return most products within 7 days of delivery, provided they meet these conditions: The product is unused, undamaged, and in its original packaging (with all tags, labels, and accessories). The product is not a hygiene-sensitive item (e.g., underwear, cosmetics, food) – unless it has a manufacturing defect. You have the original invoice or order receipt. To initiate a return, submit a request through your account or contact support. We will arrange pickup or guide you to send it back. Return shipping costs may apply unless the return is due to our error."
+    },
+    {
+      "id": 12,
+      "question": "How do I request a refund?",
+      "answer": "First, submit a return request via your account’s \"My Orders\" section or by calling/emailing our support. Once your return is approved, we will instruct you on how to send the product back or arrange a pickup. After we receive and inspect the returned item (to confirm it meets the return criteria), we will initiate the refund. You will receive a refund confirmation via email. The actual money will be credited back to your original payment method – see question 14 for timelines."
+    },
+    {
+      "id": 13,
+      "question": "What should I do if I receive a damaged or wrong product?",
+      "answer": "We sincerely apologize if that happens. Please contact our support team within 48 hours of delivery. Have your order ID ready and take clear photos of the product, the packaging box, and any visible damage or mismatched labels. Send these photos via email or WhatsApp to our support. We will verify the issue and promptly arrange either a replacement (if stock permits) or a full refund including any delivery charges. Do not discard the original packaging until the case is resolved."
+    },
+    {
+      "id": 14,
+      "question": "How long does the refund process take?",
+      "answer": "After we receive your returned product and complete our quality inspection, refunds are typically processed within 5–10 business days. The time may vary slightly depending on your payment method: bKash/Nagad/Rocket – usually 1–2 business days after processing. Bank Transfer – 2–3 business days. Credit/Debit Card – may take up to 7–10 business days because of bank reversal procedures. You will receive a notification once the refund is initiated."
+    },
+    {
+      "id": 15,
+      "question": "Are all products covered by a warranty?",
+      "answer": "Warranty coverage is product-specific and depends on the manufacturer and category. For electronics, mobile phones, home appliances, and some gadgets, we provide a manufacturer’s warranty (e.g., 6 months to 2 years). Detailed warranty terms (duration, coverage, and conditions) are clearly mentioned on each product page under the \"Warranty\" tab. For fashion, accessories, or everyday consumables, there is usually no warranty, but you are still protected by our return policy for defects."
+    },
+    {
+      "id": 16,
+      "question": "How do I use a discount or promo code?",
+      "answer": "During checkout, on the payment summary page, you will find a box labelled \"Promo Code\" or \"Coupon\". Carefully type or paste your code (pay attention to uppercase/lowercase and any spaces) and click the \"Apply\" button. If the code is valid and applicable to your order, the discount will be deducted from your total immediately. You will see the updated amount before you proceed to payment. If the code does not work, check its expiry date, minimum order value, and product exclusions."
+    },
+    {
+      "id": 17,
+      "question": "Can I use multiple coupons on one order?",
+      "answer": "Generally, we allow only one active coupon or promo code per order. Exceptions are made only during special promotional campaigns where we explicitly state that multiple codes can be combined. If you have several codes, we recommend using the one that gives you the highest benefit. You cannot stack codes unless the offer rules say otherwise."
+    },
+    {
+      "id": 18,
+      "question": "How do I know if a product is in stock?",
+      "answer": "Every product page displays the stock status clearly. If the item is available, you will see a green \"In Stock\" badge and the \"Add to Cart\" button will be active. If the product is temporarily out of stock, it will show a red \"Out of Stock\" or \"Sold Out\" message, and the order button will be disabled. We update stock levels in real time, but in rare cases, a product may sell out between the time you view it and place the order – if that happens, you will be notified during checkout."
+    },
+    {
+      "id": 19,
+      "question": "Will I be notified when an out-of-stock product becomes available?",
+      "answer": "Many product pages offer a \"Notify Me When Available\" or \"Stock Alert\" option. Enter your email address or mobile number there and click subscribe. As soon as the product is restocked, we will send you an automated alert. However, not all products have this feature. For those that don’t, you can periodically check the page or contact our support team to inquire about restocking dates."
+    },
+    {
+      "id": 20,
+      "question": "Is my payment information secure?",
+      "answer": "Absolutely. We use industry-standard SSL encryption (Secure Socket Layer) for all data transmissions. Our payment gateways are PCI-DSS compliant, meaning they follow the highest security standards for handling credit/debit card data. Your card number, CVV, and PIN are never stored on our servers; they are transmitted directly to the payment processor via a secure tokenized connection. We also do not share your financial information with any third parties."
+    },
+    {
+      "id": 21,
+      "question": "Do you offer international shipping?",
+      "answer": "Currently, we deliver only within Bangladesh. We do not ship to any international addresses. We may consider expanding abroad in the future, but for now, all orders must have a valid delivery address inside the country. If you are abroad, you can still place an order for a local recipient within Bangladesh."
+    },
+    {
+      "id": 22,
+      "question": "How can I contact customer support?",
+      "answer": "We offer multiple channels to reach us: Phone – call our hotline (number is displayed on the website) during business hours. Email – send your query to our official support email address. Live Chat – click the chat icon on the bottom right of our website for instant messaging. Contact Form – fill out the form on our \"Contact Us\" page and submit – we will reply within 24 hours. Please have your order ID ready for faster assistance."
+    },
+    {
+      "id": 23,
+      "question": "What are your customer support hours?",
+      "answer": "Our support team is available Saturday through Thursday (Friday is our weekly holiday) from 9:00 AM to 8:00 PM Bangladesh time. On public holidays, our office remains closed and we may not respond as quickly. For urgent issues outside these hours, you can leave an email or chat message, and we will address it on the next working day."
+    },
+    {
+      "id": 24,
+      "question": "Can I return a product after opening the package?",
+      "answer": "Yes, but only if the product is defective, damaged, or different from what you ordered. In those cases, we accept returns even if the packaging has been opened (you need to show the defect). However, if you opened the package simply because you changed your mind or the size/color did not suit you, we generally do not accept returns once the seal is broken – especially for items like innerwear, cosmetics, perishables, or software. For non-hygiene products, we may accept returns if the product is fully unused and all tags are still attached, but it’s decided on a case-by-case basis."
+    },
+    {
+      "id": 25,
+      "question": "What should I do if my order is delayed?",
+      "answer": "If your order exceeds the estimated delivery time, first check the tracking status to see the courier’s last update. If the status seems stuck or there is no update, contact our support team with your order ID. We will get in touch with the courier service to investigate the cause – whether it’s a weather issue, incorrect address, or logistical backlog. We will keep you informed and do our best to expedite delivery. In extreme cases, if the order is lost, we will offer a full refund or reshipment."
+    },
+    {
+      "id": 26,
+      "question": "How can I leave a product review?",
+      "answer": "Log in to your account and navigate to \"My Orders\". Find the order that has been delivered and marked as \"Completed\". Next to that order, you will see a \"Write a Review\" or \"Rate Now\" button. Click on it, give a star rating (1 to 5) and write your honest feedback about the product quality, packaging, and delivery experience. Your review helps other customers make informed decisions. We may also occasionally offer reward points for valuable reviews."
+    },
+    {
+      "id": 27,
+      "question": "Can I save products to my wishlist?",
+      "answer": "Yes, if you are a registered user, every product page has a heart icon or \"Add to Wishlist\" button. Click it to save the product to your personal wishlist. Later, you can access your wishlist from your account dashboard and easily move any item to the cart when you are ready to buy. You can also share your wishlist with friends and family for gift ideas."
+    },
+    {
+      "id": 28,
+      "question": "Do you offer gift wrapping or gift cards?",
+      "answer": "We provide gift wrapping and gift card services for a selection of products (especially items like watches, jewelry, premium chocolates, and books). The availability is shown on the product page – if the option exists, you can select it during checkout (additional charges may apply). Gift cards can be purchased from our website in fixed denominations and sent as e-gift cards to recipients. Not all categories support these services, so please check before ordering."
+    },
+    {
+      "id": 29,
+      "question": "Why was my payment declined?",
+      "answer": "There could be several reasons: Insufficient balance in your account or card limit. Incorrect card details (number, expiry date, CVV) or incorrect PIN for mobile banking. Bank restrictions on online transactions or international payments. Temporary network issues or timeout from the payment gateway. The payment gateway may have flagged the transaction as suspicious (fraud prevention). If this happens, double-check your details, try a different browser or device, or use an alternative payment method. If the issue persists, contact your bank or mobile financial service provider, or reach out to our support for assistance."
+    },
+    {
+      "id": 30,
+      "question": "How do I update my account information?",
+      "answer": "Log in to your account and click on your profile picture or name in the top right corner. From the dropdown, select \"My Account\" or \"Profile Settings\". Here you can edit your full name, mobile number, email address, and default shipping/billing addresses. After making changes, click \"Save\". Note that if you change your email, you may need to re-verify it via a confirmation link. For security reasons, some fields like your registered phone number may require OTP verification before updating."
+    },
+    {
+      "id": 31,
+      "question": "How can I change my password?",
+      "answer": "After logging in, go to \"Account Settings\" or \"Security\" from your profile menu. Find the \"Change Password\" option. Enter your current password first (to confirm your identity), then type your new password (use a strong combination of letters, numbers, and symbols), and retype it in the confirmation field. Click \"Update\" or \"Save\". Your password will be changed immediately, and you will be logged out from all other devices for security."
+    },
+    {
+      "id": 32,
+      "question": "What should I do if I forget my password?",
+      "answer": "On the login page, click the \"Forgot Password?\" link. Enter the email address or mobile number associated with your account. We will send you a password reset link via email (or an OTP via SMS). Click on that link or enter the OTP on the reset page, then set a new password of your choice. Once reset, you can log in with your new password. If you no longer have access to the registered email/phone, please contact support for manual identity verification."
+    },
+    {
+      "id": 33,
+      "question": "Can I reorder a previous purchase?",
+      "answer": "Absolutely. Go to your \"Order History\" or \"My Orders\" page and find any past order that you want to repeat. Click on the order to view details, then look for the \"Reorder\" or \"Buy Again\" button. This will automatically add all items from that previous order (with the same variants) to your current cart. You can then adjust quantities, update your delivery address, choose a payment method, and place the order anew – very convenient for recurring purchases."
+    },
+    {
+      "id": 34,
+      "question": "How do I download my invoice or receipt?",
+      "answer": "Once your order status is \"Completed\" (delivered), go to \"My Orders\" and click on that specific order to open its detail page. You will see a \"Download Invoice\" or \"Print Receipt\" button. Click it to generate a PDF or printable version of your official tax invoice/receipt. This document contains all necessary information: order ID, date, item list, price, delivery charge, total paid, and our company details. You can save it for warranty claims, expense tracking, or office reimbursement."
+    },
+    {
+      "id": 35,
+      "question": "Do you offer wholesale or bulk purchase discounts?",
+      "answer": "Yes, we have special pricing and customized shipping arrangements for wholesale buyers, retailers, corporate clients, and bulk orders (e.g., for events, offices, or schools). If you need a large quantity of any product, please contact our dedicated Sales Team separately via phone or email. Provide your product list, desired quantities, and delivery requirements. We will get back to you with a tailored quotation that includes volume discounts and possibly free delivery for large consignments."
+    }
+  ]

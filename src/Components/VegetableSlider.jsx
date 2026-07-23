@@ -16,7 +16,11 @@ const VegetableSlider = () => {
       >
 
         {/* Slide 1 */}
-        <div className="relative h-63 md:h-90 lg:h-120">
+        <motion.div
+          initial={{ x: -100, opacity: 0 }}
+          animate={{ x: 0, opacity: 1 }}
+          transition={{ duration: 1 }}
+          className="relative h-63 md:h-90 lg:h-120">
           <img 
             src="https://images.unsplash.com/photo-1518843875459-f738682238a6?w=600"
             alt=""
@@ -34,7 +38,7 @@ const VegetableSlider = () => {
               Fresh Vegetables
             </h2>
           </motion.div>
-        </div>
+        </motion.div>
 
         
         <div className='relative h-63 md:h-90 lg:h-120'>
@@ -62,7 +66,7 @@ const VegetableSlider = () => {
             <img src="https://plus.unsplash.com/premium_photo-1724250161295-ccb9c5f4f63d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fHZlZ2l0YWJsZXN8ZW58MHx8MHx8fDA%3D" alt="" className="h-full w-full object-cover"/>
              <motion.div
             initial={{ x: 100, opacity: 0 }}
-            animate={{ x: 0, opacity: 1 }}
+            whileInView={{ x: 0, opacity: 1 }}
             transition={{ duration: 1 }}
             className="absolute top-1/2 left-1/2 
                        transform -translate-x-1/2 -translate-y-1/2"

@@ -12,42 +12,29 @@ import Privacy from "./Pages/Privacy";
 import ReturnPolicy from "./Pages/ReturnPolicy";
 import VegetableDetails from "./Pages/VegetableDetails";
 import NewArrivalsDetails from "./Pages/NewArrivalsDetails";
+import FAQ from "./Components/FAQ";
 export const routes = createBrowserRouter([
   {
     path: "/",
     element: <App />,
     children: [
-      { index: true, 
-        element: <Home /> },
-      { path: "deals", 
-        element: <Deals /> },
-      { path: "Vegetable", 
-        element: <Vegetable /> },
-      { path: "newarrivals",
-         element: <NewArrivals /> ,
-         loader:async()=>fetch('https://api.escuelajs.co/api/v1/products?offset=0&limit=51')
-        
-        },
+      { index: true, element: <Home /> },
+      { path: "deals", element: <Deals /> },
+      { path: "Vegetable", element: <Vegetable /> },
+      { path: "newarrivals", element: <NewArrivals /> },
 
-        {
-          path:'newarrivals/:slug',
-          element:<NewArrivalsDetails/>,
-           loader:async()=>fetch('https://api.escuelajs.co/api/v1/products?offset=0&limit=51')
-        },
-      { path: "about", 
-        element: <About /> },
-      { path: "login", 
-        element: <Login /> },
-      { path: "signup",
-         element: <SignUp /> },
-      { path: "cart", 
-        element: <Cart /> },
-      { path: "privacy", 
-        element: <Privacy /> },
-      { path: "returnpolicy", 
-        element: <ReturnPolicy /> },
-      { path: "Vegetable/:slug", 
-        element: <VegetableDetails /> },
+      {
+        path: "newarrivals/:slug",
+        element: <NewArrivalsDetails />,
+      },
+      { path: "faq", element: <FAQ /> },
+      { path: "about", element: <About /> },
+      { path: "login", element: <Login /> },
+      { path: "signup", element: <SignUp /> },
+      { path: "cart", element: <Cart /> },
+      { path: "privacy", element: <Privacy /> },
+      { path: "returnpolicy", element: <ReturnPolicy /> },
+      { path: "Vegetable/:slug", element: <VegetableDetails /> },
     ],
   },
 ]);

@@ -11,6 +11,7 @@ const AuthProvider = ({ children }) => {
       .then((res) => res.json())
       .then((data) => setVegetable(data));
     console.log(vegetable);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
   const authInfo = {
     vegetable,
