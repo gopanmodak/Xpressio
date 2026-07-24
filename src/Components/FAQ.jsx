@@ -1,18 +1,18 @@
 import React, { useEffect, useState } from 'react';
 
 const FAQ = () => {
-  // State for fetched data
+  
   const [faqData, setFaqData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // Track which item is open (use index or ID) - only one at a time
+ 
   const [activeIndex, setActiveIndex] = useState(null);
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        // ✅ Correct path: JSON file must be inside the 'public' folder
+        
         const response = await fetch('/FAQ.json');
         if (!response.ok) {
           throw new Error('Failed to load FAQ data');
@@ -29,19 +29,19 @@ const FAQ = () => {
     fetchData();
   }, []);
 
-  // Toggle function: if clicked the same item, close it; else open the new one
+ 
   const handleToggle = (index) => {
     setActiveIndex((prevIndex) => (prevIndex === index ? null : index));
   };
 
-  // ---------- LOADING STATE ----------
+  
   if (loading) {
     return (
       <div className="max-w-3xl mx-auto p-8">
         <h2 className="text-3xl font-bold text-center text-gray-800 mb-8">
           Frequently Asked Questions
         </h2>
-        {/* Skeleton loading placeholders */}
+       
         {[...Array(4)].map((_, i) => (
           <div key={i} className="border border-gray-200 rounded-xl shadow-sm mb-4 p-6 animate-pulse">
             <div className="h-6 bg-gray-200 rounded w-3/4"></div>
@@ -51,7 +51,7 @@ const FAQ = () => {
     );
   }
 
-  // ---------- ERROR STATE ----------
+
   if (error) {
     return (
       <div className="max-w-3xl mx-auto p-8 text-center">
@@ -63,7 +63,7 @@ const FAQ = () => {
     );
   }
 
-  // ---------- SUCCESS STATE ----------
+
   return (
     <div className="max-w-3xl mx-auto px-4 py-8 md:py-12">
       <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-2">
@@ -79,7 +79,7 @@ const FAQ = () => {
             key={item.id || index}
             className="border border-gray-200 rounded-xl shadow-sm overflow-hidden bg-white transition-all duration-200 hover:shadow-md"
           >
-            {/* -------- QUESTION HEADER -------- */}
+            {/* -------- QUESTION  -------- */}
             <button
               onClick={() => handleToggle(index)}
               className="w-full flex justify-between items-center px-6 py-5 text-left bg-white hover:bg-gray-50 transition-colors duration-200 cursor-pointer focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-inset"
@@ -90,7 +90,7 @@ const FAQ = () => {
               </span>
               
               {/* Plus / Minus Icon */}
-              <span className="flex-shrink-0 ml-4 p-1 rounded-full bg-indigo-50 text-indigo-600 transition-all duration-300">
+              <span className="shrink-0 ml-4 p-1 rounded-full bg-indigo-50 text-indigo-600 transition-all duration-300">
                 {activeIndex === index ? (
                   // Minus icon (close)
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
@@ -105,10 +105,10 @@ const FAQ = () => {
               </span>
             </button>
 
-            {/* -------- ANSWER BODY (with smooth slide animation) -------- */}
+            {/* -------- ANSWER  -------- */}
             <div
               className={`overflow-hidden transition-all duration-300 ease-in-out ${
-                activeIndex === index ? 'max-h-[600px] opacity-100' : 'max-h-0 opacity-0'
+                activeIndex === index ? 'max-h-150 opacity-100' : 'max-h-0 opacity-0'
               }`}
             >
               <div className="px-6 pb-6 pt-2 text-gray-600 leading-relaxed border-t border-gray-100">
